@@ -27,3 +27,10 @@ The final rankings would be based on your private score which will be published 
 
 * **[Public LB](https://datahack.analyticsvidhya.com/contest/job-a-thon/#LeaderBoard)** : **19th Rank**
 * **[Private LB](https://datahack.analyticsvidhya.com/contest/job-a-thon/#LeaderBoard)** : **12th Rank**
+
+# Things to learn
+* Feature Generation using pandas agg
+* Feature selection using feature Importance and SHAP values
+* Removing correlation
+* Stratified KFolds prediction for LGBM and CatBoost
+* Ensemble logic
